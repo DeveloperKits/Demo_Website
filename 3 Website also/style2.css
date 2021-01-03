@@ -1,0 +1,77 @@
+p{
+	color:blue;
+}
+.red{
+	color:red;
+}
+
+}
+.bold{
+	font-weight:bold;
+}
+.pink{
+	color:pink;
+}
+
+p{
+	background-image:url("picture/Free-Download-HD-Nature-Wallpapers.jpg");
+	background-repeat:no-repeat;
+	background-size:1500px 800px;
+	
+}
+p{
+	font-family:arial;
+	font-size:2em;
+	font-weight:bold;
+	font-style:italic;
+	font-variant:small-caps;
+	text-transform:lowercase;
+}
+
+table{
+	text-align:center;
+}
+.first_line{
+	color:blue;
+}
+.last_line{
+	color:red;
+}
+table{
+	
+	margin:0 auto;
+	background-color:#99ffdd;
+	
+}
+table, th ,tr, td{
+    border-collapse:collapse;
+	border:2px solid red;
+}
+.div1{
+    width: :150px;
+    height:150px;
+	background-color:red;
+	padding:220px;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f0b7a1+1,f0b7a1+1,8c3310+5,8c3310+5,f0b7a1+11,f0b7a1+11,f0b7a1+27,8c3310+55,8c3310+55,bf6e4e+79,bf6e4e+79 */
+background: #f0b7a1; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #f0b7a1 1%, #f0b7a1 1%, #8c3310 5%, #8c3310 5%, #f0b7a1 11%, #f0b7a1 11%, #f0b7a1 27%, #8c3310 55%, #8c3310 55%, #bf6e4e 79%, #bf6e4e 79%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  #f0b7a1 1%,#f0b7a1 1%,#8c3310 5%,#8c3310 5%,#f0b7a1 11%,#f0b7a1 11%,#f0b7a1 27%,#8c3310 55%,#8c3310 55%,#bf6e4e 79%,#bf6e4e 79%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  #f0b7a1 1%,#f0b7a1 1%,#8c3310 5%,#8c3310 5%,#f0b7a1 11%,#f0b7a1 11%,#f0b7a1 27%,#8c3310 55%,#8c3310 55%,#bf6e4e 79%,#bf6e4e 79%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bf6e4e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+.div2{
+	width: :150px;
+    height:150px;
+	background-color:black;
+	color:blue;
+	padding:200px;
+	margin-top: 50px;
+	background: linear-gradient(to right,red,green,blue,yellow);
+}
+#akash p{
+	color:red;
+}
+	
+
+
